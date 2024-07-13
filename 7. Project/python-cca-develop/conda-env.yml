@@ -1,0 +1,8 @@
+name: python-cca
+dependencies:
+  - python
+  - numpy
+  - jupyter
+  - scipy
+  - pillow
+  - matplotlib
